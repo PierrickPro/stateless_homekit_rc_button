@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+wifi_settings.h
+
+wifi_settings_2.h
